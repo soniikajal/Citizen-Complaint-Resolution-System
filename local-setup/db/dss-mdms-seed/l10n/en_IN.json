@@ -245,8 +245,18 @@
     "module": "rainmaker-dashboard"
   },
   {
+    "code": "DASHBOARD_COMMON_UPDATED_HR_AGO",
+    "message": "{{n}} hr ago",
+    "module": "rainmaker-dashboard"
+  },
+  {
     "code": "DASHBOARD_COMMON_UPDATED_HRS_AGO",
     "message": "{{n}} hrs ago",
+    "module": "rainmaker-dashboard"
+  },
+  {
+    "code": "DASHBOARD_COMMON_UPDATED_DAY_AGO",
+    "message": "{{n}} day ago",
     "module": "rainmaker-dashboard"
   },
   {
